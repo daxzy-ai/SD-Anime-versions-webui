@@ -1,2 +1,3 @@
-# SD-Anime-versions
-Here you will find versions of stable diffusion only to create anime images 
+#Colab
+
+| Command | Description | | --- | --- | | git status | List all new or modified files | | git diff | Show file differences that haven't been staged |
