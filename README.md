@@ -1,4 +1,4 @@
-# Colabs
+# Colab
 
 | Colab Page| Model Page|
 | ----- | ---- |
