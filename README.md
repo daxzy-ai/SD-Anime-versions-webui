@@ -1,4 +1,4 @@
-# Colab
+<h3 align="center" Colab </h3>
 
 | Colab Page| Model Page|
 | ----- | ---- |
