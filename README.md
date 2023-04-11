@@ -1,6 +1,6 @@
 <h3 align="center"> Colab </h3>
 
-<h5 align="center">
+<h6 align="center">
 
 | Colab Page| Model Page|
 | ----- | ---- |
@@ -10,4 +10,4 @@
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daxzy-ai/SD-Anime-versions-webui/blob/main/anything_v4_5_webui_colab.ipynb) anything_v4.5_webui_colab |  https://huggingface.co/ckpt/anything-v4.5 |
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daxzy-ai/SD-Anime-versions-webui/blob/main/rev_animated_webui_colab.ipynb#scrollTo=SaAJk33ppFw1) rev_animated_webui_colab |  https://huggingface.co/ahmmu20/rev_animated |
 
-</h5>
+</h6>
