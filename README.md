@@ -9,5 +9,5 @@
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daxzy-ai/SD-Anime-versions-webui/blob/main/Open_Anime_Journey_webui_colab.ipynb) open_anime_journey_webui_colab | https://huggingface.co/MehjourneyClosedAI/OpenAnimeJourney/tree/main 
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daxzy-ai/SD-Anime-versions-webui/blob/main/anything_v4_5_webui_colab.ipynb) anything_v4.5_webui_colab |  https://huggingface.co/ckpt/anything-v4.5 |
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daxzy-ai/SD-Anime-versions-webui/blob/main/rev_animated_webui_colab.ipynb#scrollTo=SaAJk33ppFw1) rev_animated_webui_colab |  https://huggingface.co/ahmmu20/rev_animated |
-
+|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daxzy-ai/SD-Anime-versions-webui/blob/main/anything_v5_webui_colab.ipynb) anything_v5_webui_colab |  https://civitai.com/models/9409/or-anything-v5v3 |
 </h5>
