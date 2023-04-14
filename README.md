@@ -1,4 +1,4 @@
-<h3 align="center"> Colab 😸 </h3>
+<h3 align="center"> Colab with easy LoRA install 😸 </h3>
 
 <h5 align="center">
 
