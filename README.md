@@ -1,5 +1,5 @@
 <h3 align="center"> Colab with easy LoRA install 😸 </h3>
-
+(not working)
 <h5 align="center">
 
 | Colab Page| Model Page|
